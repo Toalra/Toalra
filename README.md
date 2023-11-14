@@ -1,6 +1,6 @@
 <h1>Привет👋</h1>
 
-<h4>🔭 I’m autotesting-engineer</h4>
+<h4>🔭 I’m AQA-engineer</h4>
 
 <h2>Мои контакты</h2>
 <a href="https://t.me/toalra"><img src="https://github.com/Toalra/Diploma/blob/master/src/test/resources/media/logs/Telegram.svg" wight="60" height="60"/></a>
