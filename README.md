@@ -20,6 +20,7 @@
 <h3>Дипломные проекты по автоматизации UI и API платформ</h3>
 <a href="https://github.com/Toalra/Diploma.git"></a><a hreg="https://github.com/Toalra/diplima_api.git"></a>
 <h2>Статистика GitHub</h2>
+<img src=""/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toalra&theme=default)
 
 
