@@ -2,9 +2,6 @@
 
 <h4>🔭 I’m AQA-engineer</h4>
 
-<h2>Мои контакты</h2>
-<a href="https://t.me/toalra"><img src="https://github.com/Toalra/Diploma/blob/master/src/test/resources/media/logs/Telegram.svg" wight="60" height="60"/></a>
-
 <h2>Стек технологий</h2>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toalra/Diploma/blob/master/src/test/resources/media/logs/AllureTestOps.svg"><img  src="https://github.com/Toalra/Diploma/blob/master/src/test/resources/media/logs/AllureTestOps.svg" wight="40" height="40"/></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toalra/Diploma/blob/master/src/test/resources/media/logs/Allure_Report.svg"><img src="https://github.com/Toalra/Diploma/blob/master/src/test/resources/media/logs/Allure_Report.svg" wight="40" height="40"/></a>
